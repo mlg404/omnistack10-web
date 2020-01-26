@@ -1,51 +1,26 @@
-🚀 FrontEnd Web da Semana Omnistack-10 da [RocketSeat](https://rocketseat.com.br/ "RocketSeat") feito em ReactJS
-
-
-### 💻 Instalação
----
-Dê um `clone` nesse repositório.
-
-`$ git clone https://github.com/mlg404/omnistack10-web.git`
-
-Instale as dependências
-
-`$ yarn`
-
-### 🙌 Uso
----
-Basta executar o script
-
-`$ yarn start`
-
 
 <h1 align="center">
-    <img alt="React GitHub Repo List" src="https://res.cloudinary.com/lukemorales/image/upload/v1562212004/readme_logos/nubank-react-native_eqpbvd.png" />
-    <br>
-    Nubank React Native Clone
+    DevRadar Omnistack 10
 </h1>
 
 <h4 align="center">
-  A React Native clone app of one of the greatest fintechs of the world: <a href="https://nubank.com.br/">Nubank</a>
+  A React app made for Omnistack Week 10 from <a href="https://rocketseat.com.br/">Rocketseat</a>
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/nubank-react-native.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mlg404/omnistack10-web.svg">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/nubank-react-native.svg">
-  
-  <a href="https://www.codacy.com/app/lukemorales/nubank-react-native?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/nubank-react-native&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/fa0599d8f0434c7388ae9549c8aeb90b.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mlg404/omnistack10-web.svg">
+   
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mlg404/omnistack10-web.svg">
+  <a href="https://github.com/mlg404/omnistack10-web/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mlg404/omnistack10-web.svg">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/nubank-react-native.svg">
-  <a href="https://github.com/lukemorales/nubank-react-native/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/nubank-react-native.svg">
+  <a href="https://github.com/mlg404/omnistack10-web/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/mlg404/omnistack10-web.svg">
   </a>
   
-  <a href="https://github.com/lukemorales/nubank-react-native/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/nubank-react-native.svg">
-  </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/nubank-react-native.svg"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/mlg404/omnistack10-web.svg"> 
 </p>
 
 <p align="center">
@@ -57,50 +32,36 @@ Basta executar o script
 
 ## :rocket: Technologies
 
-This project was developed with the [RocketSeat Nubank Clone Video](https://youtu.be/DDm0M_rZLJo) with the following technologies:
+This project was developed with the following technologies:
 
--  [React Native](http://facebook.github.io/react-native/)
--  [React Navigation](https://reactnavigation.org/)
--  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
--  [styled-components](https://www.styled-components.com/)
--  [react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
--  [react-native-qrcode](https://www.npmjs.com/package/react-native-qrcode)
--  [styled-components](https://www.styled-components.com/)
+-  [React JS](https://reactjs.org/)
+-  [Axios](https://github.com/axios/axios)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
-
-## :warning: Prerequisites
-
-In order to use and test the app on a simulator or on your smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment:
-
-[React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
   
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v13.0.1][nodejs] or higher + [Yarn v1.19.1][yarn] or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/nubank-react-native nubankRN
+$ git clone https://github.com/mlg404/omnistack10-web.git devRadar
 
 # Go into the repository
-$ cd nubankRN
+$ cd devRadar
 
 # Install dependencies
 $ yarn install
 
-# Run the app (iOS)
-$ react-native run-ios --simulator="iPhone XS Max"
-
-# Run the app (Android)
-$ react-native run-android
+# Run the application
+$ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/nubank-react-native/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/mlg404/omnistack10-web/blob/master/LICENSE) for more information.
 
 ---
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+Made with ♥ by Victor Eyer :wave: [Get in touch!](https://www.linkedin.com/in/victoreyer/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
